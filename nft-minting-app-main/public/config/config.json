@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8d468D0CcD598A4E29Cf0fc5656bc5A5FE3c7774",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8d468d0ccd598a4e29cf0fc5656bc5a5fe3c7774",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "Gloomy Apes",
+  "SYMBOL": "GAP",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": .05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
